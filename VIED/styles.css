@@ -75,6 +75,10 @@ header {
     max-width: 40px;    
 }
 
+#logo {
+    display: flex;
+}
+
 .menu-toggle {
     color: #fff;
     font-size: 2.2rem;
@@ -512,6 +516,10 @@ footer {
 
     .nav {
         justify-content: space-between;
+    }
+
+    #logo {
+        display: none;
     }
 
     .nav-list {
