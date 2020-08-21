@@ -25,6 +25,14 @@ MICHAEL:
 - Linking hotspots together in Unity
 
 GORAN:
+- Filled in Introduction and design sections in IEEE Research paper
+- Created the Asana project and maintained the tasks up-to-date for all team members
+- Created Website landing page with HTML, CSS and JavaScript
+- Created the GitHub project and the Website branch
+- Created the 2 logos in Adobe Illustartor
+- Created 6 web, mobile and VR friendly buttons in Adobe Illustrator
+- Pulled GitHub branch with Unity project and started implementing buttons
+- Created interactive Text, Audio and Video elements in Unity project using the buttons
 
 MASON:
 
