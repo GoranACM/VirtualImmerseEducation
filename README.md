@@ -21,7 +21,7 @@ MICHAEL:
 - Captured 360 images with GoPro 360 to be used for tour
 - Edited images in Adobe Photoshop and added logo to bottom of images to cover tripod
 - Imported images to Unity and uploaded project to GitHub for everyone to use
-- Created the hotpots and spheres to be used for tour in Unity
+- Created the hotspots and spheres to be used for tour in Unity
 - Linking hotspots together in Unity
 
 GORAN:
@@ -35,4 +35,4 @@ GORAN:
 - Created interactive Text, Audio and Video elements in Unity project using the buttons
 
 MASON:
-
+- Filled in the High level Architecture section in the research paper
