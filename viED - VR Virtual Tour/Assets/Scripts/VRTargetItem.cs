@@ -20,10 +20,7 @@ public class VRTargetItem : MonoBehaviour
         m_submit = GetComponent<ISubmitHandler>();
     }
 
-    void Update()
-    {
-        transform.Rotate(0, 0.5f, 0);
-    }
+   
 
     public void GazeEnter(PointerEventData pointer)
     {

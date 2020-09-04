@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 7494808874203729898}
   - component: {fileID: 7494808874203729899}
-  - component: {fileID: 7494808874203729896}
   - component: {fileID: 7494808874203729897}
   m_Layer: 5
   m_Name: LakeSphere1HotSpot
@@ -83,20 +82,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &7494808874203729896
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7494808874203729901}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 69577ab5b907045498fed948c3f2e3e5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ThisPanorama: {fileID: 7494808874953344352}
-  TargetPanorama: {fileID: 0}
 --- !u!136 &7494808874203729897
 CapsuleCollider:
   m_ObjectHideFlags: 0
