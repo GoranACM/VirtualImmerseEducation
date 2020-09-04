@@ -167,16 +167,6 @@ nav-link:hover {
     text-align: center;
 }
 
-.hero-institution {
-    width: 100%;
-    height: 100vh;
-    background: url("images/campus-6.jpg") center no-repeat; 
-    background-size: cover;
-    display: flex;
-    align-items: center;
-    text-align: center;
-}
-
 .sub-headline {
     font-size: 7.5rem;
     font-family: var(--secondary-font);
