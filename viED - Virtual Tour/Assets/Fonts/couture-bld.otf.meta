@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: aef1171a04014ce4a8649a709a3dd05c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Couture
+  fontNames:
+  - Couture
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e7b7a81bc8244b6429eff9c36a72c1fe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
