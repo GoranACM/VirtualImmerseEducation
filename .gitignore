@@ -73,4 +73,5 @@ crashlytics-build.properties
 # Other files
 *.bc
 *.unity3d
+*.unityweb
 viED - Virtual Tour/Library/PackageCache/com.unity.test-framework@1.1.14/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableApplyChangesToContextCommand.cs.meta
