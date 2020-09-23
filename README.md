@@ -37,3 +37,11 @@ GORAN:
 MASON:
 - Filled in the High level Architecture section in the research paper
 - Filled in the Testing section in the research paper
+- Created Website about page, contact page and news page with HTML and CSS
+- Implemented a moving scene function on both Web and VR version with button event
+- Created label for all button events to indicate
+- Filled in Interactive Tour section in User Manual
+- Edited the images to give instruction about the buttons in Interactive Tour section
+
+
+- 
