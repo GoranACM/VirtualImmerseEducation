@@ -42,6 +42,3 @@ MASON:
 - Created label for all button events to indicate
 - Filled in Interactive Tour section in User Manual
 - Edited the images to give instruction about the buttons in Interactive Tour section
-
-
-- 
