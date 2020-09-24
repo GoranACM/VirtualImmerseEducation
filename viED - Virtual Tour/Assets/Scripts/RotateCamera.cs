@@ -20,7 +20,7 @@ public class RotateCamera : MonoBehaviour
     void Update()
     {
         Rotation();
-        Zoom();
+        // Zoom();
     }
 
     private void Rotation()
