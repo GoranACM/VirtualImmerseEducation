@@ -12,7 +12,7 @@ Files:
 4. Edited images in Adobe Photoshop
 5. Buttons and sound assets to be used in tour
 
-PROTOTYPE CONTRIBUTIONS
+PROJECT CONTRIBUTIONS
 
 MICHAEL:
 - Created template and layout for IEEE Research paper for team to fill in
@@ -23,6 +23,15 @@ MICHAEL:
 - Imported images to Unity and uploaded project to GitHub for everyone to use
 - Created the hotspots and spheres to be used for tour in Unity
 - Linking hotspots together in Unity
+- Added VR functionality to the scene and using Gaze Control as the interaction
+- Created a main menu for the VR version of the Virtual Tour.
+- Completed the VR version - added music, splash screen, app logo.
+- Created information panels for the web version.
+- Added extra videos to the web version.
+- Finalised each scene in the web version by adding the information panels and videos for each scene and correctly placing them.
+- Created demonstration video for the VR version.
+- Filled in Literature Review and Analysis section in IEEE paper
+- Filled in sections in presentation.
 
 GORAN:
 - Filled in Introduction and design sections in IEEE Research paper
