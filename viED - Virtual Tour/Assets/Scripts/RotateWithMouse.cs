@@ -12,16 +12,16 @@ public class RotateWithMouse : MonoBehaviour
     {
         if (Input.GetMouseButton(0))
         {
-            transform.eulerAngles += Speed * new Vector3(Input.GetAxis("Mouse Y"), Input.GetAxis("Mouse X"), 0);
+            transform.eulerAngles += Speed * new Vector3(Input.GetAxis("Mouse Y"), -Input.GetAxis("Mouse X"), 0);
         }
 
-        Zoom();
+        // Zoom();
     }
 
     private void Zoom()
     {
-        //int travel = 0;
-        /*int scrollSpeed = 3;
+        int travel = 0;
+        int scrollSpeed = 3;
 
         var d = Input.GetAxis("Mouse ScrollWheel");
         if (d > 0f && travel > -30)
@@ -33,7 +33,7 @@ public class RotateWithMouse : MonoBehaviour
         {
             travel = travel + scrollSpeed;
             Camera.main.transform.Translate(0, 0, -1 * scrollSpeed, Space.Self);
-        }*/
+        }
 
         float ScrollWheelChange = Input.GetAxis("Mouse ScrollWheel");
 
