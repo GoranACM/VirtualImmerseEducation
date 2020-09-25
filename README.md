@@ -42,6 +42,17 @@ GORAN:
 - Created 6 web, mobile and VR friendly buttons in Adobe Illustrator
 - Pulled GitHub branch with Unity project and started implementing buttons
 - Created interactive Text, Audio and Video elements in Unity project using the buttons
+- Created cursor
+- Created cursor animations
+- Tweak buttons
+- Updated mouse movement scripts
+- Create button animations
+- Export web version in WebGL
+- Host WebGL to simmer.io
+- Integrate iframe in web version
+- Filled in Reference sections in IEEE paper
+- Filled Unity layout in IEEE paper
+- Filled in sections in presentation
 
 MASON:
 - Filled in the High level Architecture section in the research paper
