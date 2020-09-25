@@ -3149,6 +3149,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: VR Gaze
       objectReference: {fileID: 0}
+    - target: {fileID: 4956497713889647627, guid: 0764836d56d2e964e853656cd11eec24,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4962156480990414643, guid: 0764836d56d2e964e853656cd11eec24,
         type: 3}
       propertyPath: m_LocalPosition.x
