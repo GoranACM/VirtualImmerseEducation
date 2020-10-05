@@ -31,7 +31,7 @@ MICHAEL:
 - Finalised each scene in the web version by adding the information panels and videos for each scene and correctly placing them.
 - Created demonstration video for the VR version.
 - Filled in Literature Review and Analysis section in IEEE paper
-- Filled in sections in presentation.
+- Filled in slides in presentation. 
 
 GORAN:
 - Filled in Introduction and design sections in IEEE Research paper
